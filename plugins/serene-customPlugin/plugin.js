@@ -1,4 +1,4 @@
 wp.blocks.registerBlockStyle( 'core/heading', {
-    name: 'fancy-quote',
-    label: 'Fancy Quote',
+    name: 'fancy-heading',
+    label: 'Fancy heading',
 } );

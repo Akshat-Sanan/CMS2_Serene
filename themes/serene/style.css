@@ -42,3 +42,17 @@ body {
 .is-style-fancy-verse{
     color: #f0aea0;
 }
+
+.wp-block-post-featured-image img{
+	height: 50%;
+	width: 50%;
+}
+
+.wp-block-post{
+	background-color: #EAE0DF;
+	padding-left: 20px;
+}
+
+.wp-block-post-title a {
+	text-decoration: none;
+}

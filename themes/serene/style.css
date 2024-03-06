@@ -55,4 +55,25 @@ body {
 
 .wp-block-post-title a {
 	text-decoration: none;
+	font-size: 26px;
+}
+
+.wp-block-post-title a:hover {
+	color: #F0AEA0;
+}
+
+.wp-block-post-author-name__link{
+	display: none;
+}
+
+.wp-block-post-excerpt__more-link{
+	font-weight: bold;
+}
+
+.wp-block-post-excerpt__more-link:hover{
+	color: #F0AEA0;
+}
+
+.wp-block-heading{
+	display: none;
 }

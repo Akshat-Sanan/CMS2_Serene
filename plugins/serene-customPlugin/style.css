@@ -1,12 +1,17 @@
 .is-style-fancy-heading{
     font-size: 41px;
-    color: blue;
+    color: #f0aea0;
 }
 
 .is-style-fancy-para{
-    color: blue;
+    color: #f0aea0;
 }
 
 .is-style-fancy-verse{
-    color: blue;
+    color: #f0aea0;
+}
+
+.wp-elements-6e48b80563f6fa64e845ca9c28edf49b a {
+    list-style: none;
+    color: red;
 }

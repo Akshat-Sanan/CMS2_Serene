@@ -10,6 +10,10 @@
 			"custom": false,
 			"customGradient": false,
 			"customDuotone": false,
+
+
+
+
 			"palette": [
 				{
 					"slug": "base",
@@ -39,9 +43,12 @@
 			]
 		},
 		"layout": {
-			"contentSize": "700px",
+			"contentSize": "800px",
 			"wideSize": "1100px"
 		},
+
+
+
 		"spacing": {
 			"units": [ "px", "em", "rem", "vh", "vw", "%" ]
 		},

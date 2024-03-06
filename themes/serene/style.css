@@ -30,3 +30,15 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 }
+
+.wp-elements-6e48b80563f6fa64e845ca9c28edf49b a {
+    text-decoration: none;
+}
+
+.is-style-fancy-para{
+    color: #f0aea0;
+}
+
+.is-style-fancy-verse{
+    color: #f0aea0;
+}

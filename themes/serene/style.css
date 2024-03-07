@@ -77,3 +77,18 @@ body {
 .wp-block-heading{
 	display: none;
 }
+
+.woocommerce img, .woocommerce-page img {
+	height: 500px;
+}
+
+.div.wpforms-container-full input[type="submit"]:not(:hover):not(:active), div.wpforms-container-full button[type="submit"]:not(:hover):not(:active), div.wpforms-container-full .wpforms-page-button:not(:hover):not(:active){
+	background-color: #F0AEA0;
+}
+.div.wpforms-container-full input[type="submit"], div.wpforms-container-full button[type="submit"], div.wpforms-container-full .wpforms-page-button{
+	background-color: #f49885;
+}
+
+div.wpforms-container-full{
+	margin: 24px 160px;
+}

@@ -78,7 +78,7 @@ body {
 	display: none;
 }
 
-.woocommerce img, .woocommerce-page img {
+.woocommerce img {
 	height: 500px;
 }
 
@@ -90,5 +90,5 @@ body {
 }
 
 div.wpforms-container-full{
-	margin: 24px 160px;
+	margin: 24px 20%;
 }

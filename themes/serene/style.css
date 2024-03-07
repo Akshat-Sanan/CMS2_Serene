@@ -50,7 +50,7 @@ body {
 
 .wp-block-post{
 	background-color: #EAE0DF;
-	padding-left: 20px;
+	/* padding-left: 20px; */
 }
 
 .wp-block-post-title a {

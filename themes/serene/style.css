@@ -101,7 +101,7 @@ div.wpforms-container-full{
 
 /* adding margin top to the custom post container on the homepage */
 .homepage-customPost{
-	margin-top: 15px;
+	padding-top: 15px;
 }
 
 /* adding margin and margin radius to the custom posts on the homepage */
@@ -110,4 +110,8 @@ div.wpforms-container-full{
 	border: 2px solid #808080;
 	border-radius: 15px;
 	padding: 0px 15px 15px 15px;
+}
+
+.homepage-sub-hero{
+	padding-top: 20px;
 }

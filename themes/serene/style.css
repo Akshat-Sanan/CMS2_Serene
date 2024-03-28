@@ -64,18 +64,22 @@ body {
 	font-size: 26px;
 }
 
+/* post title hover color change */
 .wp-block-post-title a:hover {
 	color: #F0AEA0;
 }
 
+/* hiding the author on the post page */
 .wp-block-post-author-name__link{
 	display: none;
 }
 
+/* bolding out the read more on the post on blog page */
 .wp-block-post-excerpt__more-link{
 	font-weight: bold;
 }
 
+/* adding a hover on the read more on the post on blog page */
 .wp-block-post-excerpt__more-link:hover{
 	color: #F0AEA0;
 }

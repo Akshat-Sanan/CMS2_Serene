@@ -109,9 +109,13 @@ div.wpforms-container-full{
 	background-color: transparent;
 	border: 2px solid #808080;
 	border-radius: 15px;
-	padding: 0px 15px 15px 15px;
+	padding: 0px 20px 20px 20px;
 }
 
 .homepage-sub-hero{
 	padding-top: 20px;
+}
+
+.custom-post-homepage-img img{
+	border-radius: 15px;
 }

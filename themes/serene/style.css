@@ -92,3 +92,14 @@ body {
 div.wpforms-container-full{
 	margin: 24px 20%;
 }
+
+.homepage-customPost{
+	margin-top: 15px;
+}
+
+.homepage-customPost ul li{
+	background-color: transparent;
+	border: 2px solid #808080;
+	border-radius: 15px;
+	padding: 0px 15px 15px 15px;
+}

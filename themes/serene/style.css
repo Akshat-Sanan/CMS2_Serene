@@ -31,28 +31,34 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+/* remove the underline links on the nav links */
 .wp-elements-6e48b80563f6fa64e845ca9c28edf49b a {
     text-decoration: none;
 }
 
+/* changing the color for fancy para block */
 .is-style-fancy-para{
-    color: #f0aea0;
+	color: #f0aea0;
 }
 
+/* changing the color for fancy verse block */
 .is-style-fancy-verse{
     color: #f0aea0;
 }
 
+/* adjusting the dimensions of the the post image */
 .wp-block-post-featured-image img{
 	height: 50%;
 	width: 50%;
 }
 
+/* add a background color to the posts on the blog page */
 .wp-block-post{
 	background-color: #EAE0DF;
 	/* padding-left: 20px; */
 }
 
+/* removing the underline from the title of post on blog page and adjusting font size */
 .wp-block-post-title a {
 	text-decoration: none;
 	font-size: 26px;
@@ -93,10 +99,12 @@ div.wpforms-container-full{
 	margin: 24px 20%;
 }
 
+/* adding margin top to the custom post container on the homepage */
 .homepage-customPost{
 	margin-top: 15px;
 }
 
+/* adding margin and margin radius to the custom posts on the homepage */
 .homepage-customPost ul li{
 	background-color: transparent;
 	border: 2px solid #808080;

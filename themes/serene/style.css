@@ -119,3 +119,13 @@ div.wpforms-container-full{
 .custom-post-homepage-img img{
 	border-radius: 15px;
 }
+
+.wp-block-navigation-item__label{
+	text-transform: uppercase;
+	font-size: 21px;
+	font-weight: 600;
+}
+
+.wp-block-navigation-item__label:hover{
+	color: #EAE0DF;
+}
